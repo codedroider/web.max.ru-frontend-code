@@ -2,3 +2,5 @@
 This repository is for educational and UI research purposes only.
 ## Legal Disclaimer
 All original code, assets, and trademarks belong to their respective owners.
+
+> code isn't full
